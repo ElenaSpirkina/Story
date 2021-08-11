@@ -1,1 +1,4 @@
 Always use git status to find out if all chamges are commited. 
+There is super usefull command called :
+ git checkout    -which resrtore a previous version of code and rewrite it. 
+ 
