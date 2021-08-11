@@ -1,4 +1,5 @@
 Always use git status to find out if all chamges are commited. 
 There is super usefull command called :
  git checkout    -which resrtore a previous version of code and rewrite it. 
- 
+To see difference and return to previous state of code (before any changas been made) use:
+git diff chapter3.txt       (specify file name you want to see difference in).
