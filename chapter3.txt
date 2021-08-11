@@ -1,0 +1,1 @@
+Always use git status to find out if all chamges are commited. 

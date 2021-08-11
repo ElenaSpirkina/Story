@@ -1,0 +1,9 @@
+First of all to ge started from scratch you must :
+1) mkdir Story
+2) cd Story
+3) touch chapter1.txt
+4) nano chapter1.txt
+5) git status   -to see changes 
+6) git add chapter1.txt   -to dd it to staging
+7) git commit -m "Comment in PRESENT TIME ONLY !"
+8) 
