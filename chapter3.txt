@@ -28,3 +28,15 @@ After all dont forget to add and commit:
 git add .   (will add everything)
 
 git commit -m "message"
+
+
+
+TO MERGE ALL CHANGES FROM NEWBRANCH to MASTER USE:
+
+While on MASTER!!!!:
+
+git merge newBranchName   (to merge all changes to master)
+
+you can add a merging message as well 
+
+to quit from vi editor    :q enter 
