@@ -3,3 +3,28 @@ There is super usefull command called :
  git checkout    -which resrtore a previous version of code and rewrite it. 
 To see difference and return to previous state of code (before any changas been made) use:
 git diff chapter3.txt       (specify file name you want to see difference in).
+
+
+Some EXTREMELY USEFUL COMMANDS AND BRANCHING!
+
+By defaylt you on a mastar (main) barnch, but to practice with a code or make some changes and dont brake the whole thing by commiting it to master 
+best practice is to use a BRANCH!
+
+Start with :
+
+git log (will show commits been made)
+
+git branch (to see on what brunch you are currently)
+
+git branch newBranchName   (to create a new branch)
+
+git checkout newBranchName  (to switch to this new branch and contnue working on the code)
+
+
+
+After all dont forget to add and commit:
+
+
+git add .   (will add everything)
+
+git commit -m "message"
